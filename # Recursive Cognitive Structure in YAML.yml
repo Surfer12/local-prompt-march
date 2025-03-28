@@ -66,4 +66,6 @@ cognitive_model:
   external_insights:
     - resource: "https://example.com/cognitive-biases"
       description: "Understanding cognitive biases in recursive thinking"
-    - quote: "Knowing yourself is the beginning of all wisdom." - Aristotle
+    - quote:
+        text: "Knowing yourself is the beginning of all wisdom."
+        author: "Aristotle"
