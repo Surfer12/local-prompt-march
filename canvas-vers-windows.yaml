@@ -1,3 +1,5 @@
+suppress_errors: true
+suppress_warnings: true
 Canvas recursive_structure:
   - &understanding:
       overview: "Initial thoughts"
